@@ -1,4 +1,4 @@
-name: prism_env
+name: pyproject_env
 dependencies:
   - python=3.10.12
   - pip=23.2.1
