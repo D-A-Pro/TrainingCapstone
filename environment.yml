@@ -1,0 +1,9 @@
+name: prism_env
+dependencies:
+  - python=3.10.12
+  - pip=23.2.1
+  - pip:
+      - pandas==2.0.0
+      - python-decouple==3.8
+      - SQLAlchemy==2.0.20
+      - PyMySQL==1.1.0
